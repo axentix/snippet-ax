@@ -1,0 +1,13 @@
+{
+  "Tooltip": {
+    "prefix": "axTooltip",
+    "body": [
+      " <!-- Remove data-tooltip-position for Top Tooltip -->",
+      " <!-- data-tooltip-position:  lef, bottom, right -->",
+      "  <button id=\"tooltip1\" data-ax=\"tooltip\" data-tooltip-position=\"bottom\" data-tooltip-content=\"Tooltip\" class=\"btn blue\">",
+      "    Top",
+      "  </button>",
+      "</div>"
+    ]
+  }
+}

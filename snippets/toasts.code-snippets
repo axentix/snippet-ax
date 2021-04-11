@@ -1,0 +1,14 @@
+{
+  "Toast": {
+    "prefix": "axToast",
+    "body": [
+      "<button onclick=\"toast.show()\" class=\"btn shadow-1 rounded-1 primary small\">Show Toast</button>",
+      "<!-- Here is the javascript -->",
+      "<script>",
+      "  let toast = new Axentix.Toast('This is a toast', {",
+      "    classes: 'secondary rounded-2 shadow-2'",
+      "  });",
+      "</script>"
+    ]
+  }
+}

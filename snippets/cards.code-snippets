@@ -1,0 +1,46 @@
+{
+  "Card": {
+    "prefix": "axCard",
+    "body": [
+      "<div class=\"card shadow-1\">",
+      "  <div class=\"card-header\">Card header</div>",
+      "  <div class=\"card-content\">",
+      "    <p>Lorem ipsum dolor sit amet</p>",
+      "  </div>",
+      "  <div class=\"card-footer\">Card footer</div>",
+      "</div>"
+    ],
+    "description": "Axentix card"
+  },
+  "Card Image": {
+    "prefix": "axCardImage",
+    "body": [
+      "<div class=\"card shadow-1\">",
+      "  <div class=\"card-image\">",
+      "    <img src=\"https://images.wallpaperscraft.com/image/lake_mountains_trees_149813_1024x768.jpg\" alt=\"logo\" />",
+      "  </div>",
+      "  <div class=\"card-header\">Card header</div>",
+      "  <div class=\"card-content\">",
+      "    <p>Lorem ipsum dolor sit amet</p>",
+      "  </div>",
+      "  <div class=\"card-footer\">Card footer</div>",
+      "</div>"
+    ]
+  },
+  "Card Horizontal": {
+    "prefix": "axCardHorizontal",
+    "body": [
+      "<div class=\"card shadow-1 fx-row\">",
+      "  <div class=\"primary d-flex vcenter fx-center px-4\">",
+      "    <h4>Content</h4>",
+      "  </div>",
+      "  <div class=\"flex fx-col fx-grow\">",
+      "    <div class=\"card-header\">Header</div>",
+      "    <div class=\"card-content\">",
+      "      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>",
+      "    </div>",
+      "  </div>",
+      "</div>"
+    ]
+  }
+}

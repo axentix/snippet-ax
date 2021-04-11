@@ -1,0 +1,31 @@
+{
+  "Normal Button": {
+    "prefix": "axBtn",
+    "body": "<button class=\"btn blue\">Normal button</button>",
+    "description": "Axentix normal button"
+  },
+  "Press Button": {
+    "prefix": "axBtnPress",
+    "body": "<button class=\"btn press blue\">Press button</button>"
+  },
+  "Outline button": {
+    "prefix": "axBtnOutline",
+    "body": "<button class=\"btn outline txt-blue\"><span class=\"outline-text\">Outline button</span></button>"
+  },
+  "Outline opening button": {
+    "prefix": "axBtnOutlineOpening",
+    "body": "<button class=\"btn outline opening txt-blue\"><span class=\"outline-text\">Outline opening</span></button>"
+  },
+  "Invert outline button": {
+    "prefix": "axBtnOutlineInvert",
+    "body": "<button class=\"btn outline txt-blue\"><span class=\"outline-text outline-invert\">Outline invert</span></button>"
+  },
+  "Invert outline opening button": {
+    "prefix": "axBtnOutlineInvertOpening",
+    "body": "<button class=\"btn outline opening txt-blue\"><span class=\"outline-text outline-invert\">Outline invert opening</span></button>"
+  },
+  "Disabled button": {
+    "prefix": "axBtnDisabled",
+    "body": "<button class=\"btn disabled\">Disabled</button>"
+  }
+}

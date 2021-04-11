@@ -1,0 +1,25 @@
+{
+  "Pagination": {
+    "prefix": "axPagination",
+    "body": [
+      "<ul class=\"pagination\">",
+      "  <li class=\"disabled\">",
+      "    <!-- Use font awesome -->",
+      "    <a href=\"\"><i class=\"fas fa-step-backward\"></i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"fas fa-angle-left\"></i></a>",
+      "  </li>",
+      "  <li><a href=\"\">1</a></li>",
+      "  <li class=\"active\"><a href=\"\">2</a></li>",
+      "  <li><a href=\"\">3</a></li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"fas fa-angle-right\"></i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"fas fa-step-forward\"></i></a>",
+      "  </li>",
+      "</ul>"
+    ]
+  }
+}

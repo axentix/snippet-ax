@@ -1,0 +1,11 @@
+{
+  "Scrollspy": {
+    "prefix": "axScrollspy",
+    "body": [
+      "<div class=\"scrollspy d-flex fx-col\" data-ax=\"scrollspy\" id=\"scrollspy-example\">",
+      "  <a href=\"#something\">something</a>",
+      "  <a href=\"#something-else\">something else</a>",
+      "</div>"
+    ]
+  }
+}

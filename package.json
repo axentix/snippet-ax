@@ -1,0 +1,76 @@
+{
+  "name": "axentix-snippet",
+  "displayName": "axentix snippet",
+  "description": "axentix snippet",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/buttons.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/cards.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/caroulix.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/collapsibles.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/dropdowns.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/fabs.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/lightboxes.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/spinners.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/modals.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/paginations.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/scrollspies.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/tables.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/tabs.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/toasts.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/tooltips.code-snippets"
+      }
+    ]
+  }
+}
