@@ -1,0 +1,43 @@
+{
+  "Dropdown": {
+    "prefix": "axDropdown",
+    "body": [
+      "<div class=\"dropdown\" id=\"example-dropdown\" data-ax=\"dropdown\">",
+      "  <button type=\"button\" class=\"btn blue dropdown-trigger\">Toggle</button>",
+      "  <div class=\"dropdown-content\">",
+      "    <a class=\"dropdown-item\" href=\"#\">This is the first item</a>",
+      "    <a class=\"dropdown-item\" href=\"#\">Item 2</a>",
+      "    <a class=\"dropdown-item active\" href=\"#\">Item 3</a>",
+      "  </div>",
+      "</div>"
+    ]
+  },
+  "Dropdown Right": {
+    "prefix": "axDropdownRight",
+    "body": [
+      "<div class=\"d-flex\">",
+      "  <div class=\"dropdown ml-auto\" id=\"example-dropdown\" data-ax=\"dropdown\">",
+      "    <button type=\"button\" class=\"btn blue dropdown-trigger\">Toggle</button>",
+      "    <div class=\"dropdown-content right-aligned\">",
+      "      <a class=\"dropdown-item\" href=\"#\">This is the first item</a>",
+      "      <a class=\"dropdown-item\" href=\"#\">Item 2</a>",
+      "      <a class=\"dropdown-item active\" href=\"#\">Item 3</a>",
+      "    </div>",
+      "  </div>",
+      "</div>"
+    ]
+  },
+  "Dropdown Constrain Width": {
+    "prefix": "axDropDownConstrain",
+    "body": [
+      "<div class=\"dropdown\" id=\"example-dropdown\" data-ax=\"dropdown\">",
+      "  <button type=\"button\" class=\"btn blue dropdown-trigger\">Toggle</button>",
+      "  <div class=\"dropdown-content constrain-width\">",
+      "    <a class=\"dropdown-item\" href=\"#\">This is the first item</a>",
+      "    <a class=\"dropdown-item\" href=\"#\">Item 2</a>",
+      "    <a class=\"dropdown-item active\" href=\"#\">Item 3</a>",
+      "  </div>",
+      "</div>"
+    ]
+  }
+}

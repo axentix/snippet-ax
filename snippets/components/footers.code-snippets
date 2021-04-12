@@ -1,0 +1,42 @@
+{
+  "Footer": {
+    "prefix": "axFooter",
+    "body": "<footer class=\"footer primary\">Copyright © 2020 - Example</footer>"
+  },
+  "Footer Large": {
+    "prefix": "axFooterLarge",
+    "body": [
+      "<footer class=\"large-footer primary\">",
+      "  <div class=\"container\">",
+      "    <div class=\"grix xs3\">",
+      "      <div class=\"footer-content\">",
+      "        <h6>Left side of the footer</h6>",
+      "        <p>",
+      "          This is my phone number",
+      "          <br />",
+      "          01 23 45 67 89",
+      "        </p>",
+      "      </div>",
+      "      <div class=\"footer-content txt-center\">",
+      "        <h6>Middle of the footer</h6>",
+      "        <p>",
+      "          Welcome",
+      "          <br />",
+      "          I'm under \"Welcome\"",
+      "        </p>",
+      "      </div>",
+      "      <div class=\"footer-content txt-right\">",
+      "        <h6>Right side of the footer</h6>",
+      "        <p>",
+      "          This is my address",
+      "          <br />",
+      "          Route 12",
+      "        </p>",
+      "      </div>",
+      "    </div>",
+      "  </div>",
+      "  <div class=\"footer fx-center\">Copyright © 2020 - Example</div>",
+      "</footer>"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Navbar": {
+    "prefix": "axNavbar",
+    "body": [
+      "<nav class=\"navbar shadow-1 primary\">",
+      "  <a href=\"#\" target=\"_blank\" class=\"navbar-brand\">Axentix</a>",
+      "  <div class=\"navbar-menu ml-auto\">",
+      "    <a class=\"navbar-link active\" href=\"#\">Link</a>",
+      "    <a class=\"navbar-link\" href=\"#\">Link</a>",
+      "    <a class=\"navbar-link\" href=\"#\">Link</a>",
+      "  </div>",
+      "</nav>"
+    ]
+  },
+  "Navbar Logo": {
+    "prefix": "axNavbarLogo",
+    "body": [
+      "<nav class=\"navbar shadow-1 primary\">",
+      "  <a href=\"#\" class=\"navbar-logo centered\">",
+      "    <img src=\"https://axelsimonet.fr/assets/images/logo.png\" alt=\"Xelzs\" />",
+      "  </a>",
+      "  <a href=\"#\" target=\"_blank\" class=\"navbar-brand\">Axentix</a>",
+      "  <div class=\"navbar-menu ml-auto\">",
+      "    <a class=\"navbar-link\" href=\"#\">Link 1</a>",
+      "    <a class=\"navbar-link\" href=\"#\">Link 2</a>",
+      "  </div>",
+      "</nav>"
+    ]
+  },
+  "Navbar fixed": {
+    "prefix": "axNavbarFixed",
+    "body": [
+      "<div class=\"navbar-fixed\">",
+      "  <nav class=\"navbar shadow-1 primary\">",
+      "    <a href=\"#\" target=\"_blank\" class=\"navbar-brand\">Axentix</a>",
+      "    <div class=\"navbar-menu ml-auto\">",
+      "      <a class=\"navbar-link active\" href=\"#\">Link</a>",
+      "      <a class=\"navbar-link\" href=\"#\">Link</a>",
+      "      <a class=\"navbar-link\" href=\"#\">Link</a>",
+      "    </div>",
+      "  </nav>",
+      "</div>"
+    ]
+  }
+}

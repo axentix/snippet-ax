@@ -1,0 +1,20 @@
+{
+  "Link css": {
+    "prefix": "axLinkCSS",
+    "body": [
+      "<!-- Axentix CSS minified version -->",
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@1.1.0/dist/css/axentix.min.css\">"
+    ]
+  },
+  "Link js": {
+    "prefix": "axLinkJs",
+    "body": [
+      "<!-- Axentix JS minified version -->",
+      "<script src=\"https://cdn.jsdelivr.net/npm/axentix@1.1.0/dist/js/axentix.min.js\"></script>"
+    ]
+  },
+  "Link grix": {
+    "prefix": "axLinkGrix",
+    "body": ["<!-- Grix system -->", "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@1.1.0/dist/css/grix.min.css\">"]
+  }
+}

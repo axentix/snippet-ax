@@ -13,63 +13,111 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/buttons.code-snippets"
+        "path": "./snippets/components/buttons.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/cards.code-snippets"
+        "path": "./snippets/components/cards.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/caroulix.code-snippets"
+        "path": "./snippets/components/caroulix.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/collapsibles.code-snippets"
+        "path": "./snippets/components/collapsibles.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/dropdowns.code-snippets"
+        "path": "./snippets/components/dropdowns.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/fabs.code-snippets"
+        "path": "./snippets/components/fabs.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/lightboxes.code-snippets"
+        "path": "./snippets/components/lightboxes.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/spinners.code-snippets"
+        "path": "./snippets/components/loadings.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/modals.code-snippets"
+        "path": "./snippets/components/modals.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/paginations.code-snippets"
+        "path": "./snippets/components/paginations.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/scrollspies.code-snippets"
+        "path": "./snippets/components/scrollspy.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/tables.code-snippets"
+        "path": "./snippets/components/tables.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/tabs.code-snippets"
+        "path": "./snippets/components/tabs.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/toasts.code-snippets"
+        "path": "./snippets/components/toasts.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/tooltips.code-snippets"
+        "path": "./snippets/components/tooltips.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/footers.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/navbars.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/sidenavs.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/layouts/layouts.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/grix/grix.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/checkbox-radio.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/file.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/inputs.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/material-forms.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/select.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/forms/switches.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/utilities.code-snippets"
       }
     ]
   }

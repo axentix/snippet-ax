@@ -5,23 +5,30 @@
       "<div class=\"fab\" id=\"fab-example\" data-ax=\"fab\">",
       "  <!-- Here is the fab-trigger -->",
       "  <button class=\"btn circle secondary fab-trigger\">",
-      "    <!-- Use font awesome -->",
-      "    <i class=\"fas fa-plus\" aria-hidden=\"true\"></i>",
+      "    <i class=\"txt-white\" aria-hidden=\"true\">+</i>",
       "  </button>",
 
       "  <!-- Here is the fab-menu -->",
       "  <div class=\"fab-menu\">",
       "    <button class=\"btn shadow-1 circle orange dark-1 txt-white fab-item mb-3\">",
-      "      <i class=\"fas fa-pen\" aria-hidden=\"true\"></i>",
+      "      <i class=\"txt-white\" aria-hidden=\"true\">X</i>",
       "    </button>",
       "    <button class=\"btn shadow-1 circle red fab-item mb-3\">",
-      "      <i class=\"fas fa-paper-plane\" aria-hidden=\"true\"></i>",
+      "      <i class=\"txt-white\" aria-hidden=\"true\">X</i>",
       "    </button>",
       "    <button class=\"btn shadow-1 circle primary fab-item mb-3\">",
-      "      <i class=\"fas fa-download\" aria-hidden=\"true\"></i>",
+      "      <i class=\"txt-white\" aria-hidden=\"true\">X</i>",
       "    </button>",
       "  </div>",
-      "</div>"
+      "</div>",
+      "<style>",
+      "  .btn.circle i {",
+      "    position: absolute;",
+      "    transform: translate(-50%, -50%);",
+      "    top: 50%;",
+      "    left: 50%;",
+      "  }",
+      "</style>"
     ]
   }
 }

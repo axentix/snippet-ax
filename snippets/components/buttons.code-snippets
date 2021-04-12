@@ -1,8 +1,7 @@
 {
   "Normal Button": {
     "prefix": "axBtn",
-    "body": "<button class=\"btn blue\">Normal button</button>",
-    "description": "Axentix normal button"
+    "body": "<button class=\"btn blue\">Normal button</button>"
   },
   "Press Button": {
     "prefix": "axBtnPress",
@@ -27,5 +26,25 @@
   "Disabled button": {
     "prefix": "axBtnDisabled",
     "body": "<button class=\"btn disabled\">Disabled</button>"
+  },
+  "Small button": {
+    "prefix": "axBtnSmall",
+    "body": "<button class=\"btn blue small\">Small</button>"
+  },
+  "Large button": {
+    "prefix": "axBtnLarge",
+    "body": "<button class=\"btn blue large\">Large</button>"
+  },
+  "Circle button": {
+    "prefix": "axBtnCircle",
+    "body": "<button class=\"btn blue circle\">X</button>"
+  },
+  "Small circle button": {
+    "prefix": "axBtnSmallCircle",
+    "body": "<button class=\"btn blue small circle\">X</button>"
+  },
+  "Large circle button": {
+    "prefix": "axBtnLargeCircle",
+    "body": "<button class=\"btn blue large circle\">X</button>"
   }
 }

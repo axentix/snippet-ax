@@ -1,0 +1,97 @@
+{
+  "Grix": {
+    "prefix": "axGrix",
+    "body": [
+      "<div class=\"grix xs4\">",
+      "  <div class=\"primary\">box 1</div>",
+      "  <div class=\"red\">box 2</div>",
+      "  <div class=\"primary\">box 3</div>",
+      "  <div class=\"red\">box 4</div>",
+      "  <div class=\"primary\">box 5</div>",
+      "</div>"
+    ]
+  },
+  "Grix responsive": {
+    "prefix": "axGrixResponsive",
+    "body": [
+      "<div class=\"grix xs2 md3 lg4\">",
+      "  <div class=\"primary\">box 1</div>",
+      "  <div class=\"red\">box 2</div>",
+      "  <div class=\"primary\">box 3</div>",
+      "  <div class=\"red\">box 4</div>",
+      "  <div class=\"primary\">box 5</div>",
+      "</div>"
+    ]
+  },
+  "Grix Col / Rows - Sizing & Responsive": {
+    "prefix": "axGrixColRow",
+    "body": [
+      "<div class=\"grix xs4\">",
+      "  <div class=\"primary\">box 1</div>",
+      "  <div class=\"red col-xs3 col-md2 row-sm3 row-md2\">box 2</div>",
+      "  <div class=\"primary\">box 3</div>",
+      "  <div class=\"red\">box 4</div>",
+      "  <div class=\"primary col-xs4\">box 5</div>",
+      "</div>"
+    ]
+  },
+  "Grix Nesting": {
+    "prefix": "axGrixNesting",
+    "body": [
+      "<div class=\"grix xs1 sm2\">",
+      "  <div class=\"grix xs3\">",
+      "    <div class=\"red col-xs3\">box 1</div>",
+      "    <div class=\"primary\">box 2</div>",
+      "    <div class=\"red\">box 3</div>",
+      "    <div class=\"primary\">box 4</div>",
+      "  </div>",
+      "  <div class=\"grix xs3\">",
+      "    <div class=\"red\">box 1</div>",
+      "    <div class=\"primary\">box 2</div>",
+      "    <div class=\"red\">box 3</div>",
+      "  </div>",
+      "</div>"
+    ]
+  },
+  "Grix Position": {
+    "prefix": "axGrixPosition",
+    "body": [
+      "<div class=\"grix xs6\">",
+      "  <div class=\"primary\">box 1</div>",
+      "  <div class=\"red pos-xs3\">box 2</div>",
+      "  <div class=\"primary pos-xs1\">box 3</div>",
+      "  <div class=\"red pos-xs4\">box 4</div>",
+      "  <div class=\"primary\">box 5</div>",
+      "</div>"
+    ]
+  },
+  "Grix Row Position": {
+    "prefix": "axGrixPositionRow",
+    "body": [
+      "<div class=\"grix xs1 sm2 md3 lg4\">",
+      "  <div class=\"red\">box 1</div>",
+      "  <div class=\"primary pos-sm1 col-sm2 pos-row-sm1 pos-md2 col-md1\">box 2</div>",
+      "  <div class=\"red\">box 3</div>",
+      "</div>"
+    ]
+  },
+  "Grix Gutter": {
+    "prefix": "axGrixGutter",
+    "body": [
+      "<div class=\"grix xs4 sm6 gutter-xs3\">",
+      "  <div class=\"red\">box 1</div>",
+      "  <div class=\"primary\">box 2</div>",
+      "  <div class=\"red\">box 3</div>",
+      "  <div class=\"primary\">box 4</div>",
+      "  <div class=\"red\">box 5</div>",
+      "  <div class=\"primary\">box 6</div>",
+      "  <div class=\"red\">box 7</div>",
+      "  <div class=\"primary\">box 8</div>",
+      "  <div class=\"red\">box 9</div>",
+      "  <div class=\"primary\">box 10</div>",
+      "  <div class=\"red\">box 11</div>",
+      "  <div class=\"primary\">box 12</div>",
+      "</div>"
+    ]
+  }
+}

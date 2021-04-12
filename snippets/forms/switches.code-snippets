@@ -1,0 +1,83 @@
+{
+  "Normal switches": {
+    "prefix": "axSwitches",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field form-default\">",
+      "    <label class=\"form-switch mt-2\">",
+      "      Off",
+      "      <input type=\"checkbox\" />",
+      "      <span class=\"slider\"></span>",
+      "      On",
+      "    </label>",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Thin switches": {
+    "prefix": "axSwitches",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field form-default\">",
+      "    <label class=\"form-switch mt-2\">",
+      "      Off",
+      "      <input type=\"checkbox\" checked />",
+      "      <span class=\"slider thin\"></span>",
+      "      On",
+      "    </label>",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Switches sizes": {
+    "prefix": "axSwitchesSize",
+    "body": [
+      "<form class=\"form-material\">",
+      "    <div class=\"form-field form-default\">",
+      "      <div class=\"grix xs3\">",
+      "",
+      "        <!-- Normal switches -->",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" />",
+      "          <span class=\"slider small\"></span>",
+      "          On",
+      "        </label>",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" checked />",
+      "          <span class=\"slider\"></span>",
+      "          On",
+      "        </label>",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" />",
+      "          <span class=\"slider large\"></span>",
+      "          On",
+      "        </label>",
+      "",
+      "        <!-- Thin switches -->",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" checked />",
+      "          <span class=\"slider thin small\"></span>",
+      "          On",
+      "        </label>",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" />",
+      "          <span class=\"slider thin\"></span>",
+      "          On",
+      "        </label>",
+      "        <label class=\"form-switch\">",
+      "          Off",
+      "          <input type=\"checkbox\" checked />",
+      "          <span class=\"slider thin large\"></span>",
+      "          On",
+      "        </label>",
+      "      </div>",
+      "    </div>",
+      "</form>"
+    ]
+  }
+}

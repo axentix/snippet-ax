@@ -1,0 +1,80 @@
+{
+  "Material inputs": {
+    "prefix": "axMaterialInputs",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"grix xs1 sm2\">",
+      "    <div class=\"form-field\">",
+      "      <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" />",
+      "      <label for=\"name\">Name</label>",
+      "    </div>",
+      "    <div class=\"form-field\">",
+      "      <input type=\"email\" id=\"email\" class=\"form-control rounded-1\" placeholder=\"contact@example.com\" />",
+      "      <label for=\"email\">Email</label>",
+      "    </div>",
+      "    <div class=\"form-field col-sm2\">",
+      "      <input type=\"text\" id=\"subject\" class=\"form-control rounded-1\" disabled placeholder=\"Disabled input\" />",
+      "      <label for=\"subject\">Subject</label>",
+      "    </div>",
+      "    <div class=\"form-field col-sm2\">",
+      "      <input type=\"text\" id=\"address\" class=\"form-control rounded-1\" readonly />",
+      "      <label for=\"address\">Address</label>",
+      "      <span class=\"form-helper txt-center\">You can click but not edit in readonly mode.</span>",
+      "    </div>",
+      "    <div class=\"form-field col-sm2\">",
+      "      <label for=\"textarea\">A textarea</label>",
+      "      <textarea id=\"textarea\" class=\"form-control rounded-1\"></textarea>",
+      "    </div>",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Material checkbox/radio": {
+    "prefix": "axMaterialCheckboxRadio",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"grix xs1 sm2\">",
+      "    <div class=\"form-field\">",
+      "      <label class=\"form-check\">",
+      "        <input type=\"radio\" checked name=\"yon\" />",
+      "        <span>Radio</span>",
+      "      </label>",
+      "      <label class=\"form-check\">",
+      "        <input type=\"radio\" name=\"yon\" />",
+      "        <span class=\"full\">Full option</span>",
+      "      </label>",
+      "      <label class=\"form-check\">",
+      "        <input type=\"radio\" disabled name=\"yon\" />",
+      "        <span>Disabled</span>",
+      "      </label>",
+      "    </div>",
+      "    <div class=\"form-field\">",
+      "      <label class=\"form-check\">",
+      "        <input type=\"checkbox\" checked />",
+      "        <span>Checkbox</span>",
+      "      </label>",
+      "      <label class=\"form-check\">",
+      "        <input type=\"checkbox\" disabled />",
+      "        <span>Disabled checkbox</span>",
+      "      </label>",
+      "    </div>",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Material select": {
+    "prefix": "axMaterialSelect",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"select\">Select an option</label>",
+      "    <select class=\"form-control rounded-1\" id=\"select\">",
+      "      <option>1</option>",
+      "      <option>2</option>",
+      "      <option>3</option>",
+      "    </select>",
+      "  </div>",
+      "</form>"
+    ]
+  }
+}

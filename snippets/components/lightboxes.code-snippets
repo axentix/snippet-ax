@@ -1,0 +1,27 @@
+{
+  "Lightbox": {
+    "prefix": "axLightBox",
+    "body": [
+      "<img",
+      "  data-ax=\"lightbox\"",
+      "  id=\"example-lightbox\"",
+      "  class=\"lightbox responsive-media\"",
+      "  src=\"https://picsum.photos/1000/300?random=1\"",
+      "  alt=\"picsum\"",
+      "/>"
+    ]
+  },
+  "Lightbox caption": {
+    "prefix": "axLightBoxCaption",
+    "body": [
+      "<img",
+      "  data-ax=\"lightbox\"",
+      "  data-lightbox-caption=\"This is a caption\"",
+      "  id=\"example-lightbox\"",
+      "  class=\"lightbox responsive-media\"",
+      "  src=\"https://picsum.photos/1000/300?random=1\"",
+      "  alt=\"picsum\"",
+      "/>"
+    ]
+  }
+}

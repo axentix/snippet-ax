@@ -9,8 +9,7 @@
       "  </div>",
       "  <div class=\"card-footer\">Card footer</div>",
       "</div>"
-    ],
-    "description": "Axentix card"
+    ]
   },
   "Card Image": {
     "prefix": "axCardImage",

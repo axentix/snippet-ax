@@ -1,0 +1,68 @@
+{
+  "Pagination": {
+    "prefix": "axPagination",
+    "body": [
+      "<ul class=\"pagination\">",
+      "  <li class=\"disabled\">",
+      "    <a href=\"\"><i class=\"\"><<</i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\"><</i></a>",
+      "  </li>",
+      "  <li><a href=\"\">1</a></li>",
+      "  <li class=\"active\"><a href=\"\">2</a></li>",
+      "  <li><a href=\"\">3</a></li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">></i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">>></i></a>",
+      "  </li>",
+      "</ul>"
+    ]
+  },
+  "Pagination small": {
+    "prefix": "axPaginationSmall",
+    "body": [
+      "<ul class=\"pagination small\">",
+      "  <li class=\"disabled\">",
+      "    <a href=\"\"><i class=\"\"><<</i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\"><</i></a>",
+      "  </li>",
+      "  <li><a href=\"\">1</a></li>",
+      "  <li class=\"active\"><a href=\"\">2</a></li>",
+      "  <li><a href=\"\">3</a></li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">></i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">>></i></a>",
+      "  </li>",
+      "</ul>"
+    ]
+  },
+  "Pagination Large": {
+    "prefix": "axPaginationLarge",
+    "body": [
+      "<ul class=\"pagination large\">",
+      "  <li class=\"disabled\">",
+      "    <a href=\"\"><i class=\"\"><<</i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\"><</i></a>",
+      "  </li>",
+      "  <li><a href=\"\">1</a></li>",
+      "  <li class=\"active\"><a href=\"\">2</a></li>",
+      "  <li><a href=\"\">3</a></li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">></i></a>",
+      "  </li>",
+      "  <li>",
+      "    <a href=\"\"><i class=\"\">>></i></a>",
+      "  </li>",
+      "</ul>"
+    ]
+  }
+}
