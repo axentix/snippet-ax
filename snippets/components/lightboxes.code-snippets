@@ -1,6 +1,6 @@
 {
   "Lightbox": {
-    "prefix": "axLightBox",
+    "prefix": "axLightbox",
     "body": [
       "<img",
       "  data-ax=\"lightbox\"",
@@ -12,7 +12,7 @@
     ]
   },
   "Lightbox caption": {
-    "prefix": "axLightBoxCaption",
+    "prefix": "axLightboxCaption",
     "body": [
       "<img",
       "  data-ax=\"lightbox\"",

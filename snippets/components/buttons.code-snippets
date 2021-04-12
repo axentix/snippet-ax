@@ -11,6 +11,10 @@
     "prefix": "axBtnOutline",
     "body": "<button class=\"btn outline txt-blue\"><span class=\"outline-text\">Outline button</span></button>"
   },
+  "Circle outline button": {
+    "prefix": "axBtnCircleOutline",
+    "body": "<button class=\"btn circle outline txt-blue\"><span class=\"outline-text\">X</span></button>"
+  },
   "Outline opening button": {
     "prefix": "axBtnOutlineOpening",
     "body": "<button class=\"btn outline opening txt-blue\"><span class=\"outline-text\">Outline opening</span></button>"

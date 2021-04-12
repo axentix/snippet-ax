@@ -33,45 +33,39 @@
   "Input TextArea": {
     "prefix": "axInputTextarea",
     "body": [
-      "<form>",
-      "  <div class=\"grix xs1 sm2\">",
-      "    <div class=\"form-field\">",
-      "      <label for=\"textarea\">A textarea</label>",
-      "      <textarea id=\"textarea\" class=\"form-control rounded-1\"></textarea>",
-      "    </div>",
-      "    <div class=\"form-field\">",
-      "      <label for=\"textarea\">Another textarea</label>",
-      "      <textarea rows=\"2\" id=\"textarea\" class=\"form-control rounded-1\" disabled placeholder=\"Disabled textarea\"></textarea>",
-      "    </div>",
+      "<div class=\"grix xs1 sm2\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"textarea\">A textarea</label>",
+      "    <textarea id=\"textarea\" class=\"form-control rounded-1\"></textarea>",
       "  </div>",
-      "</form>"
+      "  <div class=\"form-field\">",
+      "    <label for=\"textarea\">Another textarea</label>",
+      "    <textarea rows=\"2\" id=\"textarea\" class=\"form-control rounded-1\" disabled placeholder=\"Disabled textarea\"></textarea>",
+      "  </div>",
+      "</div>"
     ]
   },
   "Inline form": {
     "prefix": "axFormInline",
     "body": [
-      "<form>",
-      " <div class=\"grix xs1\">",
-      "   <div class=\"form-field inline\">",
-      "     <label for=\"name\">Name</label>",
-      "     <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
-      "   </div>",
-      " </div>",
-      "</form>"
+      "<div class=\"grix xs1\">",
+      "  <div class=\"form-field inline\">",
+      "    <label for=\"name\">Name</label>",
+      "    <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
+      "  </div>",
+      "</div>"
     ]
   },
   "Helper text": {
     "prefix": "axFormHelper",
     "body": [
-      "<form>",
-      "  <div class=\"grix xs1\">",
-      "    <div class=\"form-field\">",
-      "      <label for=\"name\">Name</label>",
-      "      <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
-      "      <span class=\"form-helper\">This is a helper text.</span>",
-      "    </div>",
+      "<div class=\"grix xs1\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"name\">Name</label>",
+      "    <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
+      "    <span class=\"form-helper\">This is a helper text.</span>",
       "  </div>",
-      "</form>"
+      "</div>"
     ]
   }
 }

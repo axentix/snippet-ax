@@ -28,7 +28,7 @@
     ]
   },
   "Dropdown Constrain Width": {
-    "prefix": "axDropDownConstrain",
+    "prefix": "axDropdownConstrain",
     "body": [
       "<div class=\"dropdown\" id=\"example-dropdown\" data-ax=\"dropdown\">",
       "  <button type=\"button\" class=\"btn blue dropdown-trigger\">Toggle</button>",
