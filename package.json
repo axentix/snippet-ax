@@ -3,7 +3,7 @@
   "displayName": "Axentix Snippet",
   "description": "This autocompletion extension gives snippets for the Axentix framework.",
   "version": "1.0.0",
-  "publisher": "Axentix Team",
+  "publisher": "axentix",
   "engines": {
     "vscode": "^1.55.0"
   },
