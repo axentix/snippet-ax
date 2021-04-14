@@ -14,9 +14,6 @@
   "categories": [
     "Snippets"
   ],
-  "activationEvents": [
-    "onLanguage:html"
-  ],
   "license": "SEE LICENSE IN LICENSE",
   "keywords": [
     "axentix",
