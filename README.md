@@ -15,7 +15,7 @@
 
 # Snippets
 
-This repo contains all the snippets code you can get by downloading the VSCode [Axentix Snippets](https://marketplace.visualstudio.com/items?itemName=AxentixTeam.axentix-snippets) extension.
+This repo contains all the snippets code you can get by downloading the VSCode [Axentix Snippets](https://marketplace.visualstudio.com/items?itemName=axentix.axentix-snippet) extension.
 
 
 ## Preview

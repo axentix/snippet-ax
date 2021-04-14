@@ -1,5 +1,5 @@
 {
-  "name": "@axentix/snippet-ax",
+  "name": "axentix-snippet",
   "displayName": "Axentix Snippet",
   "description": "This autocompletion extension gives snippets for the Axentix framework.",
   "version": "1.0.0",
