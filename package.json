@@ -1,14 +1,39 @@
 {
-  "name": "axentix-snippet",
-  "displayName": "axentix snippet",
-  "description": "axentix snippet",
-  "version": "0.0.1",
+  "name": "@axentix/snippet-ax",
+  "displayName": "Axentix Snippet",
+  "description": "This autocompletion extension gives snippets for the Axentix framework.",
+  "version": "1.0.0",
+  "publisher": "Axentix Team",
   "engines": {
     "vscode": "^1.55.0"
+  },
+  "galleryBanner": {
+    "color": "#3F3F3F",
+    "theme": "dark"
   },
   "categories": [
     "Snippets"
   ],
+  "activationEvents": [
+    "onLanguage:html"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "axentix",
+    "snippets",
+    "axentix-extension",
+    "autocompletion"
+  ],
+  "bugs": {
+    "url": "https://github.com/axentix/snippet-ax/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axentix/snippet-ax.git"
+  },
+  "homepage": "https://github.com/axentix/snippet-ax/blob/master/README.md",
+  "markdown": "github",
+  "icon": "images/logo.png",
   "contributes": {
     "snippets": [
       {
@@ -114,10 +139,6 @@
       {
         "language": "html",
         "path": "./snippets/forms/switches.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/utilities.code-snippets"
       }
     ]
   }
