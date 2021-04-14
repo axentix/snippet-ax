@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://useaxentix.com/">
-    <img src="https://useaxentix.com/img/axentix.svg" alt="Axentix Logo" width="120" height="120">
+    <img src="https://useaxentix.com/android-chrome-512x512.png" alt="Axentix Logo" width="120" height="120">
   </a>
 </p>
 
