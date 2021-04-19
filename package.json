@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.55.0"
   },
+  "scripts": {
+    "build": "node combine.js",
+    "vscode:prepublish": "npm run build"
+  },
   "galleryBanner": {
     "color": "#3F3F3F",
     "theme": "dark"
@@ -17,6 +21,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "keywords": [
     "axentix",
+    "axentix snippets",
     "snippets",
     "axentix-extension",
     "autocompletion"
@@ -35,107 +40,71 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/components/buttons.code-snippets"
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/cards.code-snippets"
+        "language": "php",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/caroulix.code-snippets"
+        "language": "vue",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/collapsibles.code-snippets"
+        "language": "vue-html",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/dropdowns.code-snippets"
+        "language": "blade",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/fabs.code-snippets"
+        "language": "ejs",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/lightboxes.code-snippets"
+        "language": "handlebars",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/loadings.code-snippets"
+        "language": "latte",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/modals.code-snippets"
+        "language": "plaintext",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/paginations.code-snippets"
+        "language": "twig",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/scrollspy.code-snippets"
+        "language": "django-html",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/tables.code-snippets"
+        "language": "jinja-html",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/tabs.code-snippets"
+        "language": "nunjucks",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/toasts.code-snippets"
+        "language": "erb",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/tooltips.code-snippets"
+        "language": "razor",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/footers.code-snippets"
+        "language": "HTML (Eex)",
+        "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "html",
-        "path": "./snippets/components/navbars.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/sidenavs.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/layouts/layouts.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/grix/grix.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/checkbox-radio.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/file.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/inputs.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/material-forms.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/select.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/forms/switches.code-snippets"
+        "language": "tpl",
+        "path": "./snippets/snippets.code-snippets"
       }
     ]
   }

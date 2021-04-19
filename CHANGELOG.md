@@ -1,9 +1,22 @@
-# Change Log
+# Changelog
 
 All notable changes to the "axentix-snippet" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+# 1.1.0
 
-## [Unreleased]
+- ADDED
+  - Changelog
+  - Generate only one snippet file
+- REMOVED
+- IMPROVED
+- BUGFIXES
+  - Detection in other language than html
 
-- Initial release
+# 1.0.0
+
+- ADDED
+  - Initial release
+  - All components
+- REMOVED
+- IMPROVED
+- BUGFIXES
