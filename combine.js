@@ -27,13 +27,21 @@ const Combine = (() => {
     return files;
   };
 
+  const clean = (output) => {
+    if (fs.existsSync(output)) {
+      fs.unlinkSync(output);
+    }
+  };
+
   const run = (dirname = DIR) => {
+    const output = path.resolve(dirname, 'snippets.code-snippets');
+
+    clean(output);
+
     const files = getFiles(dirname);
     data = Object.assign({}, ...files);
 
-    const outputDir = path.resolve(dirname, 'snippets.code-snippets');
-
-    fs.writeFileSync(outputDir, JSON.stringify(data));
+    fs.writeFileSync(output, JSON.stringify(data));
 
     console.log('[Combine] Successfully combined json files');
   };

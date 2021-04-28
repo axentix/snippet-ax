@@ -2,7 +2,7 @@
   "Sidenav": {
     "prefix": "axSidenav",
     "body": [
-      "<div class=\"sidenav shadow-1 primary\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
       "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
@@ -20,7 +20,7 @@
   "Sidenav fixed": {
     "prefix": "axSidenavFixed",
     "body": [
-      "<div class=\"sidenav fixed shadow-1 primary\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav fixed shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
       "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
@@ -38,7 +38,7 @@
   "Sidenav large": {
     "prefix": "axSidenavLarge",
     "body": [
-      "<div class=\"sidenav large shadow-1 primary\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav large shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
       "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
@@ -56,7 +56,7 @@
   "Sidenav right-aligned": {
     "prefix": "axSidenavRight",
     "body": [
-      "<div class=\"sidenav right-aligned shadow-1 primary\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav right-aligned shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
       "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",

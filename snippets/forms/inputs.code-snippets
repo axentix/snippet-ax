@@ -48,22 +48,31 @@
   "Inline form": {
     "prefix": "axFormInline",
     "body": [
-      "<div class=\"grix xs1\">",
-      "  <div class=\"form-field inline\">",
-      "    <label for=\"name\">Name</label>",
-      "    <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
-      "  </div>",
+      "<div class=\"form-field inline\">",
+      "  <label for=\"name\">Name</label>",
+      "  <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
       "</div>"
     ]
   },
   "Helper text": {
     "prefix": "axFormHelper",
     "body": [
-      "<div class=\"grix xs1\">",
-      "  <div class=\"form-field\">",
-      "    <label for=\"name\">Name</label>",
-      "    <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
-      "    <span class=\"form-helper\">This is a helper text.</span>",
+      "<div class=\"form-field\">",
+      "  <label for=\"name\">Name</label>",
+      "  <input type=\"text\" id=\"name\" class=\"form-control rounded-1\" placeholder=\"Axentix\" />",
+      "  <span class=\"form-helper\">This is a helper text.</span>",
+      "</div>"
+    ]
+  },
+  "Prefix & Suffix": {
+    "prefix": "axFormPrefixSuffix",
+    "body": [
+      "<div class=\"form-field\">",
+      "  <label for=\"name\">Name</label>",
+      "  <div class=\"form-group rounded-1\">",
+      "    <span class=\"form-group-txt bd-1 bd-solid bd-r-0 bd-grey bd-light-1\">👨‍💼</span>",
+      "    <input type=\"text\" id=\"name\" class=\"form-control\" />",
+      "    <span class=\"form-group-txt bd-1 bd-solid bd-l-0 bd-grey bd-light-1 grey light-3\">suffix</span>",
       "  </div>",
       "</div>"
     ]

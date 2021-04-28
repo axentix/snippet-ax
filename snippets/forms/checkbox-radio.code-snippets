@@ -55,17 +55,15 @@
   "CheckBox/Radio Inline": {
     "prefix": "axCheckboxRadioInline",
     "body": [
-      "<div class=\"grix xs1\">",
-      "  <div class=\"form-field inline\">",
-      "    <label class=\"form-check\">",
-      "      <input type=\"radio\" name=\"yon\" />",
-      "      <span>Yes</span>",
-      "    </label>",
-      "    <label class=\"form-check\">",
-      "      <input type=\"radio\" name=\"yon\" disabled />",
-      "      <span>No</span>",
-      "    </label>",
-      "  </div>",
+      "<div class=\"form-field inline\">",
+      "  <label class=\"form-check\">",
+      "    <input type=\"radio\" name=\"yon\" />",
+      "    <span>Yes</span>",
+      "  </label>",
+      "  <label class=\"form-check\">",
+      "    <input type=\"radio\" name=\"yon\" disabled />",
+      "    <span>No</span>",
+      "  </label>",
       "</div>"
     ]
   }

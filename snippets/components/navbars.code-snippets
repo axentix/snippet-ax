@@ -17,7 +17,7 @@
     "body": [
       "<nav class=\"navbar shadow-1 primary\">",
       "  <a href=\"#\" class=\"navbar-logo centered\">",
-      "    <img src=\"https://axelsimonet.fr/assets/images/logo.png\" alt=\"Xelzs\" />",
+      "    <img src=\"https://axelsimonet.fr/assets/img/logoA.svg\" alt=\"Xelzs\" />",
       "  </a>",
       "  <a href=\"#\" target=\"_blank\" class=\"navbar-brand\">Axentix</a>",
       "  <div class=\"navbar-menu ml-auto\">",

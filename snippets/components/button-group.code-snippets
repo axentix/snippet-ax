@@ -1,0 +1,111 @@
+{
+  "Button group": {
+    "prefix": "axBtnGroup",
+    "body": [
+      "<div class=\"btn-group\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Large button group": {
+    "prefix": "axBtnGroupLarge",
+    "body": [
+      "<div class=\"btn-group btn-group-large\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Small button group": {
+    "prefix": "axBtnGroupSmall",
+    "body": [
+      "<div class=\"btn-group btn-group-small\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Vertical button group": {
+    "prefix": "axBtnGroupVertical",
+    "body": [
+      "<div class=\"btn-group btn-group-vertical\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Large vertical button group": {
+    "prefix": "axBtnGroupVerticalLarge",
+    "body": [
+      "<div class=\"btn-group btn-group-vertical btn-group-large\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Small vertical button group": {
+    "prefix": "axBtnGroupVerticalSmall",
+    "body": [
+      "<div class=\"btn-group btn-group-vertical btn-group-small\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Rounded button group": {
+    "prefix": "axBtnGroupRounded",
+    "body": [
+      "<div class=\"btn-group rounded-2\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Vertical rounded button group": {
+    "prefix": "axBtnGroupVerticalRounded",
+    "body": [
+      "<div class=\"btn-group btn-group-vertical rounded-1\">",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+        "<button class=\"btn airforce dark-2\">Button</button>",
+      "</div>"
+    ]
+  },
+  "Outline button group": {
+    "prefix": "axBtnGroupOutline",
+    "body": [
+      "<div class=\"btn-group rounded-2\">",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+      "</div>"
+    ]
+  },
+  "Small outline button group": {
+    "prefix": "axBtnGroupOutlineSmall",
+    "body": [
+      "<div class=\"btn-group btn-group-small rounded-2\">",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+      "</div>"
+    ]
+  },
+  "Large outline button group": {
+    "prefix": "axBtnGroupOutlineLarge",
+    "body": [
+      "<div class=\"btn-group btn-group-large rounded-2\">",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+        "<button class=\"btn outline txt-airforce txt-dark-2\"><span class=\"outline-text\">btn</span></button>",
+      "</div>"
+    ]
+  }
+}

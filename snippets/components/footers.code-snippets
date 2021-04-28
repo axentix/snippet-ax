@@ -1,7 +1,7 @@
 {
   "Footer": {
     "prefix": "axFooter",
-    "body": "<footer class=\"footer primary\">Copyright © 2020 - Example</footer>"
+    "body": "<footer class=\"footer primary\">Copyright © 2021 - Example</footer>"
   },
   "Footer Large": {
     "prefix": "axFooterLarge",
@@ -35,7 +35,7 @@
       "      </div>",
       "    </div>",
       "  </div>",
-      "  <div class=\"footer fx-center\">Copyright © 2020 - Example</div>",
+      "  <div class=\"footer fx-center\">Copyright © 2021 - Example</div>",
       "</footer>"
     ]
   }

@@ -2,6 +2,19 @@
 
 All notable changes to the "axentix-snippet" extension will be documented in this file.
 
+# 1.2.0
+
+- ADDED
+  - Button group
+  - Form group
+- REMOVED
+  - Font awesome cdn
+- IMPROVED
+  - Combine script
+  - Sidenav default color
+  - Navbar logo
+- BUGFIXES
+
 # 1.1.0
 
 - ADDED
