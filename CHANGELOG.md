@@ -2,6 +2,15 @@
 
 All notable changes to the "axentix-snippet" extension will be documented in this file.
 
+# 1.3.0
+
+- ADDED
+  - Update CDN links to Axentix 1.2.1
+- REMOVED
+- IMPROVED
+  - Basic layout
+- BUGFIXES
+
 # 1.2.0
 
 - ADDED
