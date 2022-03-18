@@ -2,7 +2,7 @@
   "name": "axentix-snippet",
   "displayName": "Axentix Snippet",
   "description": "This autocompletion extension gives snippets for the Axentix framework.",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "publisher": "axentix",
   "engines": {
     "vscode": "^1.55.0"
