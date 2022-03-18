@@ -2,7 +2,7 @@
   "Spinner": {
     "prefix": "axSpinner",
     "body": [
-      "<div class=\"spinner txt-blue\">",
+      "<div class=\"spinner text-blue\">",
       "  <svg viewBox=\"25 25 50 50\">",
       "    <circle class=\"spinner-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke-width=\"3\" />",
       "  </svg>",
@@ -12,7 +12,7 @@
   "Spinner small": {
     "prefix": "axSpinnerSmall",
     "body": [
-      "<div class=\"spinner small txt-blue\">",
+      "<div class=\"spinner spinner-small text-blue\">",
       "  <svg viewBox=\"25 25 50 50\">",
       "    <circle class=\"spinner-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke-width=\"3\" />",
       "  </svg>",
@@ -22,7 +22,7 @@
   "Spinner large": {
     "prefix": "axSpinnerLarge",
     "body": [
-      "<div class=\"spinner large txt-blue\">",
+      "<div class=\"spinner spinner-large text-blue\">",
       "  <svg viewBox=\"25 25 50 50\">",
       "    <circle class=\"spinner-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke-width=\"3\" />",
       "  </svg>",
@@ -32,7 +32,7 @@
   "Spinner rainbow": {
     "prefix": "axSpinnerRainbow",
     "body": [
-      "<div class=\"spinner rainbow txt-blue\">",
+      "<div class=\"spinner spinner-rainbow\">",
       "  <svg viewBox=\"25 25 50 50\">",
       "    <circle class=\"spinner-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke-width=\"3\" />",
       "  </svg>",
@@ -42,8 +42,8 @@
   "Spinner text": {
     "prefix": "axSpinnerText",
     "body": [
-      "<div class=\"spinner txt-blue\">",
-      "  <span class=\"spinner-txt\">Text</span>",
+      "<div class=\"spinner text-blue\">",
+      "  <span class=\"spinner-text\">Text</span>",
       "  <svg viewBox=\"25 25 50 50\">",
       "    <circle class=\"spinner-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke-width=\"3\" />",
       "  </svg>",
@@ -52,7 +52,7 @@
   },
   "Progress bar small": {
     "prefix": "axProgressSmall",
-    "body": ["<div class=\"progress rounded-2 small\"><div class=\"progress-bar primary\" style=\"width: 25%\"></div></div>"]
+    "body": ["<div class=\"progress rounded-2 progress-small\"><div class=\"progress-bar primary\" style=\"width: 25%\"></div></div>"]
   },
   "Progress bar": {
     "prefix": "axProgress",
@@ -60,14 +60,14 @@
   },
   "Progress bar large": {
     "prefix": "axProgressLarge",
-    "body": ["<div class=\"progress large rounded-2\"><div class=\"progress-bar primary\" style=\"width: 50%\">50%</div></div>"]
+    "body": ["<div class=\"progress progress-large rounded-2\"><div class=\"progress-bar primary\" style=\"width: 50%\">50%</div></div>"]
   },
   "Progress bar indeterminate": {
     "prefix": "axProgressIndeterminate",
-    "body": ["<div class=\"progress indeterminate rounded-2\"><div class=\"progress-bar primary\"></div></div>"]
+    "body": ["<div class=\"progress progress-indeterminate rounded-2\"><div class=\"progress-bar primary\"></div></div>"]
   },
   "Progress bar indeterminate rainbow": {
     "prefix": "axProgressIndeterminateRainbow",
-    "body": ["<div class=\"progress indeterminate rounded-2\"><div class=\"progress-bar rainbow\"></div></div>"]
+    "body": ["<div class=\"progress progress-indeterminate rounded-2\"><div class=\"progress-bar progress-rainbow\"></div></div>"]
   }
 }

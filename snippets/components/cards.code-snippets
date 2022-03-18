@@ -30,10 +30,10 @@
     "prefix": "axCardHorizontal",
     "body": [
       "<div class=\"card shadow-1 fx-row\">",
-      "  <div class=\"primary d-flex vcenter fx-center px-4\">",
+      "  <div class=\"primary d-flex vcenter fx-center p-4\">",
       "    <h4>Content</h4>",
       "  </div>",
-      "  <div class=\"flex fx-col fx-grow\">",
+      "  <div class=\"d-flex fx-col fx-grow\">",
       "    <div class=\"card-header\">Header</div>",
       "    <div class=\"card-content\">",
       "      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>",

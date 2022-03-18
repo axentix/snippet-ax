@@ -1,8 +1,6 @@
 const path = require('path');
 const fs = require('fs');
 
-const DIR = './snippets';
-
 const Combine = (() => {
   const getFile = (file) => {
     return fs.readFileSync(file);
@@ -19,8 +17,12 @@ const Combine = (() => {
       if (stat && stat.isDirectory()) {
         files.push(...getFiles(file));
       } else {
-        const content = getFile(file);
-        files.push(JSON.parse(content));
+        try {
+          const content = getFile(file);
+          files.push(JSON.parse(content));
+        } catch (error) {
+          console.error(`[Combine] Unable to parse file : ${file}`);
+        }
       }
     });
 
@@ -28,12 +30,10 @@ const Combine = (() => {
   };
 
   const clean = (output) => {
-    if (fs.existsSync(output)) {
-      fs.unlinkSync(output);
-    }
+    if (fs.existsSync(output)) fs.unlinkSync(output);
   };
 
-  const run = (dirname = DIR) => {
+  const run = (dirname = './snippets') => {
     const output = path.resolve(dirname, 'snippets.code-snippets');
 
     clean(output);

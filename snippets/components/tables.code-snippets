@@ -2,7 +2,7 @@
   "Table": {
     "prefix": "axTable",
     "body": [
-      "<div class=\"responsive-table\">",
+      "<div class=\"table-responsive\">",
       "  <table class=\"table\">",
       "    <thead>",
       "      <tr>",
@@ -30,7 +30,7 @@
   "Table Method 2": {
     "prefix": "axTable2",
     "body": [
-      "<div class=\"responsive-table-2\">",
+      "<div class=\"table-responsive-2\">",
       "  <table class=\"table\">",
       "    <thead>",
       "      <tr>",
@@ -58,8 +58,8 @@
   "Table striped": {
     "prefix": "axTableStriped",
     "body": [
-      "<div class=\"responsive-table\">",
-      "  <table class=\"table striped\">",
+      "<div class=\"table-responsive\">",
+      "  <table class=\"table table-striped\">",
       "    <thead>",
       "      <tr>",
       "        <th>#</th>",
@@ -91,8 +91,8 @@
   "Table hoverable": {
     "prefix": "axTableHoverable",
     "body": [
-      "<div class=\"responsive-table\">",
-      "  <table class=\"table hover\">",
+      "<div class=\"table-responsive\">",
+      "  <table class=\"table table-hover\">",
       "    <thead>",
       "      <tr>",
       "        <th>#</th>",
@@ -119,8 +119,8 @@
   "Table bordered": {
     "prefix": "axTableBordered",
     "body": [
-      "<div class=\"responsive-table\">",
-      "  <table class=\"table bordered\">",
+      "<div class=\"table-responsive\">",
+      "  <table class=\"table table-bordered\">",
       "    <thead>",
       "      <tr>",
       "        <th>#</th>",
@@ -152,8 +152,8 @@
   "Table no border": {
     "prefix": "axTableNoBorder",
     "body": [
-      "<div class=\"responsive-table\">",
-      "  <table class=\"table border-0\">",
+      "<div class=\"table-responsive\">",
+      "  <table class=\"table table-no-border\">",
       "    <thead>",
       "      <tr>",
       "        <th>#</th>",
@@ -185,8 +185,8 @@
   "Table centered": {
     "prefix": "axTableCentered",
     "body": [
-      "<div class=\"responsive-table\">",
-      "  <table class=\"table centered\">",
+      "<div class=\"table-responsive\">",
+      "  <table class=\"table table-centered\">",
       "    <thead>",
       "      <tr>",
       "        <th>#</th>",
@@ -218,7 +218,7 @@
   "Table with caption": {
     "prefix": "axTableCaption",
     "body": [
-      "<div class=\"responsive-table\">",
+      "<div class=\"table-responsive\">",
       "  <table class=\"table\">",
       "    <caption>This is a caption</caption>",
       "    <thead>",

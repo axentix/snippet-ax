@@ -5,46 +5,37 @@
       "<div class=\"modal white\" id=\"modal-example\" data-ax=\"modal\">",
       "  <div class=\"modal-header\">",
       "    Header",
-      "    <button data-target=\"modal-example\" class=\"modal-trigger\">",
-      "      <span>X</span>",
-      "    </button>",
       "  </div>",
       "  <div class=\"modal-content\">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>",
       "  <div class=\"modal-footer\">Footer</div>",
       "</div>",
-      "<button class=\"btn rounded-1 primary press modal-trigger\" data-target=\"modal-example\">OPEN MODAL</button>"
+      "<button class=\"btn rounded-1 primary btn-press\" data-target=\"modal-example\">OPEN MODAL</button>"
     ]
   },
   "Modal falling": {
     "prefix": "axModalFalling",
     "body": [
-      "<div class=\"modal falling white\" id=\"modal-example\" data-ax=\"modal\">",
+      "<div class=\"modal modal-falling white\" id=\"modal-example\" data-ax=\"modal\">",
       "  <div class=\"modal-header\">",
       "    Header",
-      "    <button data-target=\"modal-example\" class=\"modal-trigger\">",
-      "      <span>X</span>",
-      "    </button>",
       "  </div>",
       "  <div class=\"modal-content\">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>",
       "  <div class=\"modal-footer\">Footer</div>",
       "</div>",
-      "<button class=\"btn rounded-1 primary press modal-trigger\" data-target=\"modal-example\">OPEN MODAL</button>"
+      "<button class=\"btn rounded-1 primary btn-press\" data-target=\"modal-example\">OPEN MODAL</button>"
     ]
   },
   "Modal boucing": {
     "prefix": "axModalBouncing",
     "body": [
-      "<div class=\"modal bouncing white\" id=\"modal-example\" data-ax=\"modal\">",
+      "<div class=\"modal modal-bouncing white\" id=\"modal-example\" data-ax=\"modal\">",
       "  <div class=\"modal-header\">",
       "    Header",
-      "    <button data-target=\"modal-example\" class=\"modal-trigger\">",
-      "      <span>X</span>",
-      "    </button>",
       "  </div>",
       "  <div class=\"modal-content\">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>",
       "  <div class=\"modal-footer\">Footer</div>",
       "</div>",
-      "<button class=\"btn rounded-1 primary press modal-trigger\" data-target=\"modal-example\">OPEN MODAL</button>"
+      "<button class=\"btn rounded-1 primary btn-press\" data-target=\"modal-example\">OPEN MODAL</button>"
     ]
   }
 }

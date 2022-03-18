@@ -21,7 +21,7 @@
       "  let scrollSpy = new Axentix.ScrollSpy('#scrollspy-auto', {",
       "    auto: {",
       "      enabled: true,",
-      "      classes: 'txt-grey mt-2 font-w500 pl-2 bd-l-solid bd-l-3',",
+      "      classes: 'text-grey mt-2 font-w500 pl-2 bd-l-solid bd-l-3',",
       "      selector: 'h1,h2'",
       "    }",
       "  });",

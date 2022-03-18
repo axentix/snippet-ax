@@ -4,7 +4,6 @@
     "body": [
       "<div class=\"sidenav shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
-      "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
       "  </div>",
       "  <a href=\"#\" class=\"sidenav-link active\">Link 1</a>",
@@ -14,15 +13,14 @@
       "  <div class=\"sidenav-footer cyan light-1\">This is a footer</div>",
       "</div>",
       "",
-      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 press primary sidenav-trigger\">Open sidenav</button>"
+      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 btn-press primary\">Open sidenav</button>"
     ]
   },
   "Sidenav fixed": {
     "prefix": "axSidenavFixed",
     "body": [
-      "<div class=\"sidenav fixed shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav sidenav-fixed shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
-      "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
       "  </div>",
       "  <a href=\"#\" class=\"sidenav-link active\">Link 1</a>",
@@ -32,33 +30,14 @@
       "  <div class=\"sidenav-footer cyan light-1\">This is a footer</div>",
       "</div>",
       "",
-      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 press primary sidenav-trigger\">Open sidenav</button>"
+      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 btn-press primary\">Open sidenav</button>"
     ]
   },
-  "Sidenav large": {
-    "prefix": "axSidenavLarge",
-    "body": [
-      "<div class=\"sidenav large shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
-      "  <div class=\"sidenav-header\">",
-      "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
-      "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
-      "  </div>",
-      "  <a href=\"#\" class=\"sidenav-link active\">Link 1</a>",
-      "  <a href=\"#\" class=\"sidenav-link\">Link 2</a>",
-      "  <a href=\"#\" class=\"sidenav-link\">Link 3</a>",
-      "  <a href=\"#\" class=\"sidenav-link\">Link 4</a>",
-      "  <div class=\"sidenav-footer cyan light-1\">This is a footer</div>",
-      "</div>",
-      "",
-      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 press primary sidenav-trigger\">Open sidenav</button>"
-    ]
-  },
-  "Sidenav right-aligned": {
+  "Sidenav right": {
     "prefix": "axSidenavRight",
     "body": [
-      "<div class=\"sidenav right-aligned shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
+      "<div class=\"sidenav sidenav-right shadow-1 white\" id=\"example-sidenav\" data-ax=\"sidenav\">",
       "  <div class=\"sidenav-header\">",
-      "    <button data-target=\"example-sidenav\" class=\"sidenav-trigger\"><i class=\"fas fa-times\"></i></button>",
       "    <img class=\"sidenav-logo dropshadow-1\" src=\"your_img_path\" alt=\"Logo\" />",
       "  </div>",
       "  <a href=\"#\" class=\"sidenav-link active\">Link 1</a>",
@@ -68,7 +47,7 @@
       "  <div class=\"sidenav-footer cyan light-1\">This is a footer</div>",
       "</div>",
       "",
-      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 press primary sidenav-trigger\">Open sidenav</button>"
+      "<button data-target=\"example-sidenav\" class=\"btn rounded-1 btn-press primary\">Open sidenav</button>"
     ]
   }
 }

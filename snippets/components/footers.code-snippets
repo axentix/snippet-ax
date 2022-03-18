@@ -1,15 +1,15 @@
 {
   "Footer": {
     "prefix": "axFooter",
-    "body": "<footer class=\"footer primary\">Copyright © 2021 - Example</footer>"
+    "body": "<footer class=\"footer primary\">Copyright © 2022 - Example</footer>"
   },
   "Footer Large": {
     "prefix": "axFooterLarge",
     "body": [
-      "<footer class=\"large-footer primary\">",
+      "<footer class=\"d-flex fx-col primary\">",
       "  <div class=\"container\">",
       "    <div class=\"grix xs3\">",
-      "      <div class=\"footer-content\">",
+      "      <div>",
       "        <h6>Left side of the footer</h6>",
       "        <p>",
       "          This is my phone number",
@@ -17,7 +17,7 @@
       "          01 23 45 67 89",
       "        </p>",
       "      </div>",
-      "      <div class=\"footer-content txt-center\">",
+      "      <div class=\"text-center\">",
       "        <h6>Middle of the footer</h6>",
       "        <p>",
       "          Welcome",
@@ -25,7 +25,7 @@
       "          I'm under \"Welcome\"",
       "        </p>",
       "      </div>",
-      "      <div class=\"footer-content txt-right\">",
+      "      <div class=\"text-right\">",
       "        <h6>Right side of the footer</h6>",
       "        <p>",
       "          This is my address",
@@ -35,7 +35,7 @@
       "      </div>",
       "    </div>",
       "  </div>",
-      "  <div class=\"footer fx-center\">Copyright © 2021 - Example</div>",
+      "  <div class=\"footer fx-center\">Copyright © 2022 - Example</div>",
       "</footer>"
     ]
   }

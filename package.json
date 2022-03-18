@@ -18,7 +18,7 @@
   "categories": [
     "Snippets"
   ],
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "keywords": [
     "axentix",
     "axentix snippets",
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/axentix/snippet-ax/blob/master/README.md",
   "markdown": "github",
-  "icon": "images/logo.png",
+  "icon": "images/logo.jpg",
   "contributes": {
     "snippets": [
       {
@@ -104,6 +104,10 @@
       },
       {
         "language": "tpl",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "edge",
         "path": "./snippets/snippets.code-snippets"
       }
     ]

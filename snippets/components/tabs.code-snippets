@@ -25,7 +25,7 @@
   "Tabs full width": {
     "prefix": "axTabsFullWidth",
     "body": [
-      "<div class=\"tab shadow-1 full-width\" id=\"example-tab\" data-ax=\"tab\">",
+      "<div class=\"tab shadow-1 tab-full-width\" id=\"example-tab\" data-ax=\"tab\">",
       "  <ul class=\"tab-menu\">",
       "    <li class=\"tab-link\">",
       "      <a href=\"#tab1\">Tab 1</a>",
@@ -53,7 +53,7 @@
       "  <div class=\"tab-arrow\">",
       "    <!-- Here is the prev arrow -->",
       "    <div class=\"tab-prev shadow-1 white\">",
-      "      <a href=\"\"><i class=\"txt-black\"><</i></a>",
+      "      <a href=\"\"><i class=\"text-black\"><</i></a>",
       "    </div>",
       "    <ul class=\"tab-menu\">",
       "      <li class=\"tab-link\">",
@@ -80,7 +80,7 @@
       "    </ul>",
       "    <!-- Here is the next arrow -->",
       "    <div class=\"tab-next shadow-1 white\">",
-      "      <a href=\"\"><i class=\"txt-black\">></i></a>",
+      "      <a href=\"\"><i class=\"text-black\">></i></a>",
       "    </div>",
       "  </div>",
       "",

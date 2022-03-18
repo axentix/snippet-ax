@@ -1,0 +1,22 @@
+{
+  "Waves": {
+    "prefix": "axWaves",
+    "body": [
+      "<button data-waves class=\"btn primary rounded-1\">Click me</button>"
+    ]
+  },
+  "Waves on images": {
+    "prefix": "axWavesImages",
+    "body": [
+      "<img data-waves src=\"https://picsum.photos/800/450?random=1\" alt=\"img1\" class=\"responsive-media\" />"
+    ]
+  },
+  "Waves colors": {
+    "prefix": "axWavesColors",
+    "body": [
+      "<button data-waves class=\"btn blue rounded-1\">Basic waves</button>",
+      "<button data-waves=\"rgba(0, 0, 0, 0.1)\" class=\"btn blue rounded-1\">Dark waves</button>",
+      "<button data-waves=\"rgba(255, 0, 0, 0.1)\" class=\"btn grey light-2 rounded-1\">Red waves</button>"
+    ]
+  }
+}

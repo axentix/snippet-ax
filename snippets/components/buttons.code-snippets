@@ -5,50 +5,50 @@
   },
   "Press Button": {
     "prefix": "axBtnPress",
-    "body": "<button class=\"btn press blue\">Press button</button>"
+    "body": "<button class=\"btn btn-press blue\">Press button</button>"
   },
   "Outline button": {
     "prefix": "axBtnOutline",
-    "body": "<button class=\"btn outline txt-blue\"><span class=\"outline-text\">Outline button</span></button>"
+    "body": "<button class=\"btn btn-outline text-blue\"><span class=\"btn-outline-text\">Outline button</span></button>"
   },
   "Circle outline button": {
     "prefix": "axBtnCircleOutline",
-    "body": "<button class=\"btn circle outline txt-blue\"><span class=\"outline-text\">X</span></button>"
+    "body": "<button class=\"btn btn-circle btn-outline text-blue\"><span class=\"btn-outline-text\">X</span></button>"
   },
   "Outline opening button": {
     "prefix": "axBtnOutlineOpening",
-    "body": "<button class=\"btn outline opening txt-blue\"><span class=\"outline-text\">Outline opening</span></button>"
+    "body": "<button class=\"btn btn-outline btn-opening text-blue\"><span class=\"btn-outline-text\">Outline opening</span></button>"
   },
   "Invert outline button": {
     "prefix": "axBtnOutlineInvert",
-    "body": "<button class=\"btn outline txt-blue\"><span class=\"outline-text outline-invert\">Outline invert</span></button>"
+    "body": "<button class=\"btn btn-outline text-blue\"><span class=\"btn-outline-text btn-outline-invert\">Outline invert</span></button>"
   },
   "Invert outline opening button": {
     "prefix": "axBtnOutlineInvertOpening",
-    "body": "<button class=\"btn outline opening txt-blue\"><span class=\"outline-text outline-invert\">Outline invert opening</span></button>"
+    "body": "<button class=\"btn btn-outline btn-opening text-blue\"><span class=\"outline-text btn-outline-invert\">Outline invert opening</span></button>"
   },
   "Disabled button": {
     "prefix": "axBtnDisabled",
-    "body": "<button class=\"btn disabled\">Disabled</button>"
+    "body": "<button disabled class=\"btn\">Disabled</button>"
   },
   "Small button": {
     "prefix": "axBtnSmall",
-    "body": "<button class=\"btn blue small\">Small</button>"
+    "body": "<button class=\"btn blue btn-small\">Small</button>"
   },
   "Large button": {
     "prefix": "axBtnLarge",
-    "body": "<button class=\"btn blue large\">Large</button>"
+    "body": "<button class=\"btn blue btn-large\">Large</button>"
   },
   "Circle button": {
     "prefix": "axBtnCircle",
-    "body": "<button class=\"btn blue circle\">X</button>"
+    "body": "<button class=\"btn blue btn-circle\">X</button>"
   },
   "Small circle button": {
     "prefix": "axBtnSmallCircle",
-    "body": "<button class=\"btn blue small circle\">X</button>"
+    "body": "<button class=\"btn blue btn-small btn-circle\">X</button>"
   },
   "Large circle button": {
     "prefix": "axBtnLargeCircle",
-    "body": "<button class=\"btn blue large circle\">X</button>"
+    "body": "<button class=\"btn blue btn-large btn-circle\">X</button>"
   }
 }

@@ -2,6 +2,17 @@
 
 All notable changes to the "axentix-snippet" extension will be documented in this file.
 
+# 2.0.0
+
+- ADDED
+  - Updated to Axentix v2.0. See changes [here](https://github.com/axentix/axentix/blob/v2/CHANGELOG.md).
+  - Waves
+  - Form validation
+  - Edge template support
+- REMOVED
+- IMPROVED
+- BUGFIXES
+
 # 1.3.0
 
 - ADDED

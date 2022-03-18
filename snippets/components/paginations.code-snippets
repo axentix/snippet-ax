@@ -24,7 +24,7 @@
   "Pagination small": {
     "prefix": "axPaginationSmall",
     "body": [
-      "<ul class=\"pagination small\">",
+      "<ul class=\"pagination pagination-small\">",
       "  <li class=\"disabled\">",
       "    <a href=\"\"><<</a>",
       "  </li>",
@@ -46,7 +46,7 @@
   "Pagination Large": {
     "prefix": "axPaginationLarge",
     "body": [
-      "<ul class=\"pagination large\">",
+      "<ul class=\"pagination pagination-large\">",
       "  <li class=\"disabled\">",
       "    <a href=\"\"><<</a>",
       "  </li>",

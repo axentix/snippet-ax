@@ -1,0 +1,39 @@
+{
+  "Form validation": {
+    "prefix": "axFormValidation",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"email\">Email</label>",
+      "    <input data-form-validate=\"auto\" required type=\"email\" id=\"email\" class=\"form-control\" placeholder=\"example@email.com\" />",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Form validation custom helper": {
+    "prefix": "axFormValidationHelper",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"email\">Email</label>",
+      "    <input data-form-validate required type=\"email\" id=\"email\" class=\"form-control\" placeholder=\"example@email.com\" />",
+      "    <span class=\"form-helper-valid\">Valid helper text</span>",
+      "    <span class=\"form-helper-invalid\">Invalid helper text</span>",
+      "  </div>",
+      "</form>"
+    ]
+  },
+  "Form validation lazy": {
+    "prefix": "axFormValidationLazy",
+    "body": [
+      "<form class=\"form-material\">",
+      "  <div class=\"form-field\">",
+      "    <label for=\"email\">Email</label>",
+      "    <input data-form-validate=\"lazy\" required type=\"email\" id=\"email\" class=\"form-control\" placeholder=\"example@email.com\" />",
+      "    <span class=\"form-helper-valid\">Valid helper text</span>",
+      "    <span class=\"form-helper-invalid\">Invalid helper text</span>",
+      "  </div>",
+      "</form>"
+    ]
+  }
+}

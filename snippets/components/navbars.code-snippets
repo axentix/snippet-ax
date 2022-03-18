@@ -16,7 +16,7 @@
     "prefix": "axNavbarLogo",
     "body": [
       "<nav class=\"navbar shadow-1 primary\">",
-      "  <a href=\"#\" class=\"navbar-logo centered\">",
+      "  <a href=\"#\" class=\"navbar-logo navbar-centered\">",
       "    <img src=\"https://axelsimonet.fr/assets/img/logoA.svg\" alt=\"Xelzs\" />",
       "  </a>",
       "  <a href=\"#\" target=\"_blank\" class=\"navbar-brand\">Axentix</a>",

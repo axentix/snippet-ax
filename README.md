@@ -33,10 +33,6 @@ All components have autocomplete, get the whole component snippets list here :
 Find the documentation at <https://useaxentix.com/docs/>.
 
 ## Creators
-- Vincent Di Marco - (Vincentdm31)  
-  [Github](https://github.com/Vincentdm31)  
-  [Linkedin](https://www.linkedin.com/in/vincentdimarco/)
-
 - Axel SIMONET - (Xelzs)  
   [Github](https://github.com/Xelzs)  
   [Linkedin](https://www.linkedin.com/in/axel-simonet/)  
@@ -45,3 +41,7 @@ Find the documentation at <https://useaxentix.com/docs/>.
 - Vincent LEVEQUE - (Stallos11)  
   [Github](https://github.com/Stallos11)  
   [Linkedin](https://www.linkedin.com/in/leveque-vincent/)
+
+- Vincent Di Marco - (Vincentdm31)  
+  [Github](https://github.com/Vincentdm31)  
+  [Linkedin](https://www.linkedin.com/in/vincentdimarco/)

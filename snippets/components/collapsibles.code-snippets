@@ -2,7 +2,7 @@
   "Collapsible": {
     "prefix": "axCollapsible",
     "body": [
-      "<button data-target=\"example-collapsible\" class=\"btn blue collapsible-trigger\">Toggle</button>",
+      "<button data-target=\"example-collapsible\" class=\"btn blue\">Toggle</button>",
       "<div class=\"collapsible\" id=\"example-collapsible\" data-ax=\"collapsible\">",
       "  <div class=\"airforce\">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</div>",
       "</div>"
