@@ -8,7 +8,7 @@
       "    <title>Axentix Layout</title>",
       "    <meta charset=\"utf-8\">",
       "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
-      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.css\">",
+      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.css\">",
       "  </head>",
       "",
       "  <body class=\"layout\">",
@@ -29,7 +29,7 @@
       "    </main>",
       "",
       "    <footer class=\"footer primary\">Copyright © 2022 - Example</footer>",
-      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.js\"></script>",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.js\"></script>",
       "  </body>",
       "</html>"
     ]
@@ -43,7 +43,7 @@
       "    <title>Axentix Layout - Sidenav</title>",
       "    <meta charset=\"utf-8\">",
       "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
-      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.cs\">",
+      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.css\">",
       "  </head>",
       "",
       "  <body class=\"layout-sidenav\">",
@@ -80,7 +80,7 @@
       "    <footer class=\"footer primary\">",
       "      Copyright © 2022 - Example",
       "    </footer>",
-      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.js\"></script>",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.js\"></script>",
       "  </body>",
       "</html>"
     ]
@@ -94,7 +94,7 @@
       "    <title>Axentix Layout - Sidenav Fixed</title>",
       "    <meta charset=\"utf-8\">",
       "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
-      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.cs\">",
+      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.css\">",
       "  </head>",
       "",
       "  <body class=\"layout-sidenav-fixed\">",
@@ -131,7 +131,7 @@
       "    <footer class=\"footer primary\">",
       "      Copyright © 2022 - Example",
       "    </footer>",
-      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.js\"></script>",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.js\"></script>",
       "  </body>",
       "</html>"
     ]
@@ -145,7 +145,7 @@
       "    <title>Axentix Layout - Under navbar</title>",
       "    <meta charset=\"utf-8\">",
       "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
-      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.cs\">",
+      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.css\">",
       "  </head>",
       "",
       "  <body class=\"layout-under-navbar\">",
@@ -184,7 +184,7 @@
       "    <footer class=\"footer primary\">",
       "      Copyright © 2022 - Example",
       "    </footer>",
-      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.0/dist/axentix.min.js\"></script>",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/axentix@2.0.x/dist/axentix.min.js\"></script>",
       "  </body>",
       "</html>"
     ]

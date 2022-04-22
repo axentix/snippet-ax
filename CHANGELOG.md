@@ -2,6 +2,14 @@
 
 All notable changes to the "axentix-snippet" extension will be documented in this file.
 
+# 2.0.1
+
+- ADDED
+- REMOVED
+- IMPROVED
+- BUGFIXES
+  - Layouts css link is incorrect
+
 # 2.0.0
 
 - ADDED
